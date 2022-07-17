@@ -2,11 +2,7 @@
 
 My name is Marc Miller. I'm an aspiring software engineer and a computer science major at the University of Florida 🐊. I love to code and am always eager to learn new technologies.
 
-You can find me on:
-<div>
-    <img href=[1] src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    <br></br>
-</div>
+You can find me on: [![LinkedIn][3.2]][3].
 
 ## 🖥️ Technologies & Tools 🖱️
 
@@ -30,9 +26,12 @@ You can find me on:
 
 <!-- Icons -->
 [1.1]: http://i.imgur.com/wWzX9uB.png
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
 
 <!-- links to social media accounts -->
-[1]: https://www.linkedin.com/in/marc-miller-7026061b6
+[3]: https://www.linkedin.com/in/marc-miller-7026061b6
+
 
 <!--
 **MillerMarc1/MillerMarc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
