@@ -3,7 +3,7 @@
 My name is Marc Miller. I'm an aspiring software engineer and a computer science major at the University of Florida 🐊. I love to code and am always eager to learn new technologies.
 
 You can find me on:
-<div href=[1]>
+<div href="https://www.linkedin.com/in/marc-miller-7026061b6">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     <br></br>
 </div>
