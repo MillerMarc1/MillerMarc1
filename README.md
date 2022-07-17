@@ -15,15 +15,15 @@ You can find me on:
 ![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=microsoft%20sql%20server&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=2bbc8a)
 
-<a href="https://github.com/MillerMarc1/MillerMarc1">
+<a width=150px href="https://github.com/MillerMarc1/MillerMarc1">
   <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=MillerMarc1&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
-<a href="https://github.com/MillerMarc1/Crypto-MinerDashboard">
+<a width=150px href="https://github.com/MillerMarc1/Crypto-MinerDashboard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MillerMarc1&repo=Crypto-MinerDashboard&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/MillerMarc1/MillerMarc1">
+<a width=300px href="https://github.com/MillerMarc1/MillerMarc1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MillerMarc1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Marc's GitHub Stats" />
 </a>
 
