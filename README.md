@@ -49,4 +49,4 @@ You can find me on:
 
 
 <!-- links to social media accounts -->
-[1]: https://www.linkedin.com/in/marc-miller-7026061b6
+[1]: https://www.linkedin.com/in/marc--miller/
